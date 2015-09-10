@@ -1,3 +1,5 @@
++![Unsupported](https://img.shields.io/badge/development_status-unsupported-red.svg) ![License BSDv2](https://img.shields.io/badge/license-BSDv2-brightgreen.svg)
+
 Roadcrew is a simple Go command to continusouly run the *amazing* Sysdig, uploading the results to S3.
 
 ## Usage:
